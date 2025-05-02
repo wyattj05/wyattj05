@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+## I work as a Systems Consultant for the University of Washington. I love Taekwondo, Basketball, Volleyball, playing piano, and trying new things.
 
 <!--
 **wyattj05/wyattj05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
